@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>k</folder>
+	<filename>k_56_rotate_6.jpeg</filename>
+	<path>C:\Users\hyunj\label\k\k_56_rotate_6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>400</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

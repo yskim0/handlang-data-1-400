@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>p</folder>
+	<filename>p_31_rotate_8.jpeg</filename>
+	<path>C:\Users\CSE_123\Desktop\american-sign-language-dataset\asl\p\p_31_rotate_8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>400</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

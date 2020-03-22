@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>f</folder>
+	<filename>f_47_rotate_2.jpeg</filename>
+	<path>/Users/yeonsookim/Desktop/dataset222/asl/f/f_47_rotate_2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>12</ymin>
+			<xmax>400</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

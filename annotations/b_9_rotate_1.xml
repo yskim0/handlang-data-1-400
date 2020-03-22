@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>b</folder>
+	<filename>b_9_rotate_1.jpeg</filename>
+	<path>/Users/yeonsookim/Desktop/Handlang/img/b/b_9_rotate_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>8</ymin>
+			<xmax>389</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

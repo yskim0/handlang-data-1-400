@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>z</folder>
+	<filename>z_30_rotate_3.jpeg</filename>
+	<path>C:\Users\user\Downloads\american-sign-language-dataset\asl\z\z_30_rotate_3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

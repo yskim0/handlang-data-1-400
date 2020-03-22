@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>g</folder>
+	<filename>g_42_rotate_2.jpeg</filename>
+	<path>C:\Users\hyunj\label\g\g_42_rotate_2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>400</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

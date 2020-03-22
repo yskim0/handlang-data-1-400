@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>d</folder>
+	<filename>d_53_rotate_6.jpeg</filename>
+	<path>/Users/yeonsookim/Desktop/dataset222/asl/d/d_53_rotate_6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>d</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>394</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
